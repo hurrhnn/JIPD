@@ -15,7 +15,7 @@
 # TO-DO LIST
 
 #### 1. Add TCP Connection (SYN Flooding)
-UDP: Just consume target's network bandwidth.
+UDP: Just consume target's network bandwidth.  
 TCP: Using resources on the server.
 
 #### 2. Add various methods of attack.
