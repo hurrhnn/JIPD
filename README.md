@@ -1,7 +1,7 @@
 # JIPD: Java-based Ion Planet Destroyer
 -------------------------------------------------------
 # Caution!
-### This Planet Destroyeris so powerful that a home router can be destroyed if it is used as a target.
+### This Planet Destroyer is so powerful that a home router can be destroyed if it is used as a target.
 ### So, DO NOT USE IT FOR ILLEGAL PURPOSES!
 -------------------------------------------------------
 # Usage.
